@@ -1,0 +1,22 @@
+{
+  "name": "docker-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawan972019/Docker-Implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawan972019/Docker-Implementation/issues"
+  },
+  "homepage": "https://github.com/pawan972019/Docker-Implementation#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
